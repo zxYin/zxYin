@@ -4,5 +4,5 @@
 
 [![Zixin's github stats](https://github-readme-stats.vercel.app/api?username=zxYin)](https://github.com/anuraghazra/github-readme-stats)
 
-* 🎓 I'm now a students in Xi'an Jiaotong University.
-* 💼 I'm currently working in Microsfot as a Software Engineer Intern.
+* 🎓 I'm now a CS PhD students in the HKUST.
+* 💼 I'm currently working in Xiaobing.ai and IDEA as a Research Intern.
